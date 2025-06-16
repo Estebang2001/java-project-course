@@ -2,8 +2,6 @@
 
 This project is a desktop Java application that allows users to convert U.S. dollars into various other currencies. It uses the ExchangeRate-API to obtain up-to-date exchange rates.
 
-> ⚙️ **This project is part of a course project from Alura, focused on back-end development with Java.**
-
 ## Project Structure
 
 The project is organized into the following packages and classes:
